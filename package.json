@@ -1,0 +1,16 @@
+  {
+  "name": "project-maya",
+  "version": "1.0.0",
+  "description": "Crawling MAYA data and monitoring for vacant",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "hongvin",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "log4js": "^6.7.1",
+    "puppeteer": "^19.7.1",
+  }
+}
